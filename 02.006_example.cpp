@@ -1,3 +1,8 @@
+/*
+Output:
+sizeof emp1 is 72
+sizeof emp2 is 72
+*/
 #include <iostream>
 using namespace std;
 
